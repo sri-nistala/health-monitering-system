@@ -1,2 +1,7 @@
-# health-monitering-system
+
 IOT BASED INTELLIGENT HEALTH MONITORING SYSTEM
+
+
+Internet of Things (IoT) is an ecosystem of connected physical objects that are accessible through the internet. IOT devices are used in many application fields which make the users day to day life more comfortable. These devices are used to collect temperature, blood pressure, and sugar level etc., which are used to evaluate the health condition of the patient. Communicating the collected information to the doctor, making accurate decision on the data collected and notifying the patient is the challenging task in the IoT.
+In this project, An IoT based Intelligent Health Monitoring System (IHMS) using Arduino is proposed to collect the required parameters and evaluate the data obtained from the sensor devices. IHMS with Arduino also gives the notifications to patient with possible precautionary measures to be practiced by them.
+This system suggests the patient with medical care and next step to be followed in case of critical situation. The combination of IoT with Arduino is the new way of introducing Internet of Things in Health Care Monitoring System of patients. Arduino UNO board collects data from the sensors and transfer wirelessly to IoT website. The Proposed IHMS is evaluated for certain parameters like heartbeat, body temperature, blood pressure etc., and the decisions can be made based on the data obtained from IoT website.
